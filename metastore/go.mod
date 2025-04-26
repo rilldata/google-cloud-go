@@ -1,4 +1,4 @@
-module cloud.google.com/go/metastore
+module github.com/rilldata/google-cloud-go/metastore
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/longrunning
+module github.com/rilldata/google-cloud-go/longrunning
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/automl
+module github.com/rilldata/google-cloud-go/automl
 
 go 1.23.0
 

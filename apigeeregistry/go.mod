@@ -1,4 +1,4 @@
-module cloud.google.com/go/apigeeregistry
+module github.com/rilldata/google-cloud-go/apigeeregistry
 
 go 1.23.0
 

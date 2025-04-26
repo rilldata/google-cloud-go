@@ -1,4 +1,4 @@
-module cloud.google.com/go/recommendationengine
+module github.com/rilldata/google-cloud-go/recommendationengine
 
 go 1.23.0
 

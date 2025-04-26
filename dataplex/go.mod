@@ -1,4 +1,4 @@
-module cloud.google.com/go/dataplex
+module github.com/rilldata/google-cloud-go/dataplex
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/cloudtasks
+module github.com/rilldata/google-cloud-go/cloudtasks
 
 go 1.23.0
 

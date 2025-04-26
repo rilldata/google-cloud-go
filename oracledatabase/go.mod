@@ -1,4 +1,4 @@
-module cloud.google.com/go/oracledatabase
+module github.com/rilldata/google-cloud-go/oracledatabase
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/privilegedaccessmanager
+module github.com/rilldata/google-cloud-go/privilegedaccessmanager
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/modelarmor
+module github.com/rilldata/google-cloud-go/modelarmor
 
 go 1.23.0
 

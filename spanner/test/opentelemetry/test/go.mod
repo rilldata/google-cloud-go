@@ -1,4 +1,4 @@
-module cloud.google.com/go/spanner/test
+module github.com/rilldata/google-cloud-go/spanner/test
 
 go 1.23.0
 

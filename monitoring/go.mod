@@ -1,4 +1,4 @@
-module cloud.google.com/go/monitoring
+module github.com/rilldata/google-cloud-go/monitoring
 
 go 1.23.0
 

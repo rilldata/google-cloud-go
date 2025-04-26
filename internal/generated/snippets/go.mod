@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/generated
+module github.com/rilldata/google-cloud-go/internal/generated
 
 go 1.23.0
 

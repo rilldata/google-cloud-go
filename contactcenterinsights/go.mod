@@ -1,4 +1,4 @@
-module cloud.google.com/go/contactcenterinsights
+module github.com/rilldata/google-cloud-go/contactcenterinsights
 
 go 1.23.0
 

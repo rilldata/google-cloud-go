@@ -1,4 +1,4 @@
-module cloud.google.com/go/videointelligence
+module github.com/rilldata/google-cloud-go/videointelligence
 
 go 1.23.0
 

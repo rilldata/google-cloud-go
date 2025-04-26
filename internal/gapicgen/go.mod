@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/gapicgen
+module github.com/rilldata/google-cloud-go/internal/gapicgen
 
 go 1.23.0
 

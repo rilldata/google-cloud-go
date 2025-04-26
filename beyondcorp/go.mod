@@ -1,4 +1,4 @@
-module cloud.google.com/go/beyondcorp
+module github.com/rilldata/google-cloud-go/beyondcorp
 
 go 1.23.0
 

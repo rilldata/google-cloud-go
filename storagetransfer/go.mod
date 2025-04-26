@@ -1,4 +1,4 @@
-module cloud.google.com/go/storagetransfer
+module github.com/rilldata/google-cloud-go/storagetransfer
 
 go 1.23.0
 

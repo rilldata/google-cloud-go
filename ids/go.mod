@@ -1,4 +1,4 @@
-module cloud.google.com/go/ids
+module github.com/rilldata/google-cloud-go/ids
 
 go 1.23.0
 

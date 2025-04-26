@@ -1,4 +1,4 @@
-module cloud.google.com/go/networkservices
+module github.com/rilldata/google-cloud-go/networkservices
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/carver
+module github.com/rilldata/google-cloud-go/internal/carver
 
 go 1.23.0
 

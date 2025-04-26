@@ -1,4 +1,4 @@
-module cloud.google.com/go/grafeas
+module github.com/rilldata/google-cloud-go/grafeas
 
 go 1.23.0
 

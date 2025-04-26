@@ -1,4 +1,4 @@
-module cloud.google.com/go/orgpolicy
+module github.com/rilldata/google-cloud-go/orgpolicy
 
 go 1.23.0
 

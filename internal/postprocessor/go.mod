@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/postprocessor
+module github.com/rilldata/google-cloud-go/internal/postprocessor
 
 go 1.23.0
 

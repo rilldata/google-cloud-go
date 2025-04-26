@@ -1,4 +1,4 @@
-module cloud.google.com/go/gsuiteaddons
+module github.com/rilldata/google-cloud-go/gsuiteaddons
 
 go 1.23.0
 

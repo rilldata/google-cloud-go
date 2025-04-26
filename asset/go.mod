@@ -1,4 +1,4 @@
-module cloud.google.com/go/asset
+module github.com/rilldata/google-cloud-go/asset
 
 go 1.23.0
 

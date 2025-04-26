@@ -1,4 +1,4 @@
-module cloud.google.com/go/devicestreaming
+module github.com/rilldata/google-cloud-go/devicestreaming
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/vision/v2
+module github.com/rilldata/google-cloud-go/vision/v2
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/retail
+module github.com/rilldata/google-cloud-go/retail
 
 go 1.23.0
 

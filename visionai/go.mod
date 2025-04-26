@@ -1,4 +1,4 @@
-module cloud.google.com/go/visionai
+module github.com/rilldata/google-cloud-go/visionai
 
 go 1.23.0
 

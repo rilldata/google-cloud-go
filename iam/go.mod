@@ -1,4 +1,4 @@
-module cloud.google.com/go/iam
+module github.com/rilldata/google-cloud-go/iam
 
 go 1.23.0
 

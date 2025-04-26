@@ -1,4 +1,4 @@
-module cloud.google.com/go/cloudbuild
+module github.com/rilldata/google-cloud-go/cloudbuild
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/resourcemanager
+module github.com/rilldata/google-cloud-go/resourcemanager
 
 go 1.23.0
 

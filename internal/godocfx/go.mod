@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/godocfx
+module github.com/rilldata/google-cloud-go/internal/godocfx
 
 go 1.23.0
 

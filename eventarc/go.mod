@@ -1,4 +1,4 @@
-module cloud.google.com/go/eventarc
+module github.com/rilldata/google-cloud-go/eventarc
 
 go 1.23.0
 

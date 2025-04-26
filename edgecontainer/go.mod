@@ -1,4 +1,4 @@
-module cloud.google.com/go/edgecontainer
+module github.com/rilldata/google-cloud-go/edgecontainer
 
 go 1.23.0
 

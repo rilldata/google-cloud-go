@@ -1,4 +1,4 @@
-module cloud.google.com/go/auth/oauth2adapt
+module github.com/rilldata/google-cloud-go/auth/oauth2adapt
 
 go 1.23.0
 

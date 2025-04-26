@@ -1,4 +1,4 @@
-module cloud.google.com/go/datacatalog
+module github.com/rilldata/google-cloud-go/datacatalog
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/pubsublite
+module github.com/rilldata/google-cloud-go/pubsublite
 
 go 1.23.0
 

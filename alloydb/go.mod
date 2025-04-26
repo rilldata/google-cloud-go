@@ -1,4 +1,4 @@
-module cloud.google.com/go/alloydb
+module github.com/rilldata/google-cloud-go/alloydb
 
 go 1.23.0
 

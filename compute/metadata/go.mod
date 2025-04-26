@@ -1,4 +1,4 @@
-module cloud.google.com/go/compute/metadata
+module github.com/rilldata/google-cloud-go/compute/metadata
 
 go 1.23.0
 

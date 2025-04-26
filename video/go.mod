@@ -1,4 +1,4 @@
-module cloud.google.com/go/video
+module github.com/rilldata/google-cloud-go/video
 
 go 1.23.0
 

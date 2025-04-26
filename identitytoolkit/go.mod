@@ -1,4 +1,4 @@
-module cloud.google.com/go/identitytoolkit
+module github.com/rilldata/google-cloud-go/identitytoolkit
 
 go 1.23.0
 

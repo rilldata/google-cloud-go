@@ -1,4 +1,4 @@
-module cloud.google.com/go/language
+module github.com/rilldata/google-cloud-go/language
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/chat
+module github.com/rilldata/google-cloud-go/chat
 
 go 1.23.0
 

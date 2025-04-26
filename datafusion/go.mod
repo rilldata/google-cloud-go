@@ -1,4 +1,4 @@
-module cloud.google.com/go/datafusion
+module github.com/rilldata/google-cloud-go/datafusion
 
 go 1.23.0
 

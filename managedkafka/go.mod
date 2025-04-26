@@ -1,4 +1,4 @@
-module cloud.google.com/go/managedkafka
+module github.com/rilldata/google-cloud-go/managedkafka
 
 go 1.23.0
 

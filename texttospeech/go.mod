@@ -1,4 +1,4 @@
-module cloud.google.com/go/texttospeech
+module github.com/rilldata/google-cloud-go/texttospeech
 
 go 1.23.0
 

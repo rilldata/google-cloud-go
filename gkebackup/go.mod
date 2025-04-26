@@ -1,4 +1,4 @@
-module cloud.google.com/go/gkebackup
+module github.com/rilldata/google-cloud-go/gkebackup
 
 go 1.23.0
 

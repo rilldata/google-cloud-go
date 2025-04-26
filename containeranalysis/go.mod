@@ -1,4 +1,4 @@
-module cloud.google.com/go/containeranalysis
+module github.com/rilldata/google-cloud-go/containeranalysis
 
 go 1.23.0
 

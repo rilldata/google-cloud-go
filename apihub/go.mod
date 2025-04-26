@@ -1,4 +1,4 @@
-module cloud.google.com/go/apihub
+module github.com/rilldata/google-cloud-go/apihub
 
 go 1.23.0
 

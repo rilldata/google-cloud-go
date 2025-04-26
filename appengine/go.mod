@@ -1,4 +1,4 @@
-module cloud.google.com/go/appengine
+module github.com/rilldata/google-cloud-go/appengine
 
 go 1.23.0
 

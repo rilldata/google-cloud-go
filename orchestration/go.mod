@@ -1,4 +1,4 @@
-module cloud.google.com/go/orchestration
+module github.com/rilldata/google-cloud-go/orchestration
 
 go 1.23.0
 

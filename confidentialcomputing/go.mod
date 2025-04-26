@@ -1,4 +1,4 @@
-module cloud.google.com/go/confidentialcomputing
+module github.com/rilldata/google-cloud-go/confidentialcomputing
 
 go 1.23.0
 

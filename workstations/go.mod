@@ -1,4 +1,4 @@
-module cloud.google.com/go/workstations
+module github.com/rilldata/google-cloud-go/workstations
 
 go 1.23.0
 

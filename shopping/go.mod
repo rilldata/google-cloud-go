@@ -1,4 +1,4 @@
-module cloud.google.com/go/shopping
+module github.com/rilldata/google-cloud-go/shopping
 
 go 1.23.0
 

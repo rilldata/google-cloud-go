@@ -1,4 +1,4 @@
-module cloud.google.com/go/security
+module github.com/rilldata/google-cloud-go/security
 
 go 1.23.0
 

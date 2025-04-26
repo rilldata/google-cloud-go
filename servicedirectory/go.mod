@@ -1,4 +1,4 @@
-module cloud.google.com/go/servicedirectory
+module github.com/rilldata/google-cloud-go/servicedirectory
 
 go 1.23.0
 

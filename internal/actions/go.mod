@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/actions
+module github.com/rilldata/google-cloud-go/internal/actions
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/vmmigration
+module github.com/rilldata/google-cloud-go/vmmigration
 
 go 1.23.0
 

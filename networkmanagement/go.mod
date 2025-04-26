@@ -1,4 +1,4 @@
-module cloud.google.com/go/networkmanagement
+module github.com/rilldata/google-cloud-go/networkmanagement
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/filestore
+module github.com/rilldata/google-cloud-go/filestore
 
 go 1.23.0
 

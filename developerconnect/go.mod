@@ -1,4 +1,4 @@
-module cloud.google.com/go/developerconnect
+module github.com/rilldata/google-cloud-go/developerconnect
 
 go 1.23.0
 

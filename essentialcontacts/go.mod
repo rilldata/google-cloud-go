@@ -1,4 +1,4 @@
-module cloud.google.com/go/essentialcontacts
+module github.com/rilldata/google-cloud-go/essentialcontacts
 
 go 1.23.0
 

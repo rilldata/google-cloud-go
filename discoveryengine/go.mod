@@ -1,4 +1,4 @@
-module cloud.google.com/go/discoveryengine
+module github.com/rilldata/google-cloud-go/discoveryengine
 
 go 1.23.0
 

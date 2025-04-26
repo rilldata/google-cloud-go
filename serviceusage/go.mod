@@ -1,4 +1,4 @@
-module cloud.google.com/go/serviceusage
+module github.com/rilldata/google-cloud-go/serviceusage
 
 go 1.23.0
 

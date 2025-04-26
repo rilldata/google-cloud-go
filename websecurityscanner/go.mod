@@ -1,4 +1,4 @@
-module cloud.google.com/go/websecurityscanner
+module github.com/rilldata/google-cloud-go/websecurityscanner
 
 go 1.23.0
 

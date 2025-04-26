@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/protoveneer
+module github.com/rilldata/google-cloud-go/internal/protoveneer
 
 go 1.23.0
 

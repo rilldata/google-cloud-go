@@ -1,4 +1,4 @@
-module cloud.google.com/go/redis
+module github.com/rilldata/google-cloud-go/redis
 
 go 1.23.0
 

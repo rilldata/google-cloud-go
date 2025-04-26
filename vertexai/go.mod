@@ -1,4 +1,4 @@
-module cloud.google.com/go/vertexai
+module github.com/rilldata/google-cloud-go/vertexai
 
 go 1.23.0
 

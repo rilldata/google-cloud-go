@@ -1,4 +1,4 @@
-module cloud.google.com/go/area120
+module github.com/rilldata/google-cloud-go/area120
 
 go 1.23.0
 

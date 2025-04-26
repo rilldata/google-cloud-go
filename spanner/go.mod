@@ -1,4 +1,4 @@
-module cloud.google.com/go/spanner
+module github.com/rilldata/google-cloud-go/spanner
 
 go 1.23.0
 

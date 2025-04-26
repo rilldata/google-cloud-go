@@ -1,4 +1,4 @@
-module cloud.google.com/go/recommender
+module github.com/rilldata/google-cloud-go/recommender
 
 go 1.23.0
 

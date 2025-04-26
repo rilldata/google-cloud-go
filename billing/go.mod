@@ -1,4 +1,4 @@
-module cloud.google.com/go/billing
+module github.com/rilldata/google-cloud-go/billing
 
 go 1.23.0
 

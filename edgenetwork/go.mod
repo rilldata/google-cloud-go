@@ -1,4 +1,4 @@
-module cloud.google.com/go/edgenetwork
+module github.com/rilldata/google-cloud-go/edgenetwork
 
 go 1.23.0
 

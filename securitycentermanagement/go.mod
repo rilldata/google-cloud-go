@@ -1,4 +1,4 @@
-module cloud.google.com/go/securitycentermanagement
+module github.com/rilldata/google-cloud-go/securitycentermanagement
 
 go 1.23.0
 

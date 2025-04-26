@@ -1,4 +1,4 @@
-module cloud.google.com/go/baremetalsolution
+module github.com/rilldata/google-cloud-go/baremetalsolution
 
 go 1.23.0
 

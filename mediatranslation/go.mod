@@ -1,4 +1,4 @@
-module cloud.google.com/go/mediatranslation
+module github.com/rilldata/google-cloud-go/mediatranslation
 
 go 1.23.0
 

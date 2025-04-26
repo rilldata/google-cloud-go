@@ -1,4 +1,4 @@
-module cloud.google.com/go/datastore
+module github.com/rilldata/google-cloud-go/datastore
 
 go 1.23.0
 

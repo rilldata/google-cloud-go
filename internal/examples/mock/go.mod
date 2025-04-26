@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/examples/mock
+module github.com/rilldata/google-cloud-go/internal/examples/mock
 
 go 1.23.0
 

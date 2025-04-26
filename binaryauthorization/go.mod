@@ -1,4 +1,4 @@
-module cloud.google.com/go/binaryauthorization
+module github.com/rilldata/google-cloud-go/binaryauthorization
 
 go 1.23.0
 

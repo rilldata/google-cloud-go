@@ -1,4 +1,4 @@
-module cloud.google.com/go/dataqna
+module github.com/rilldata/google-cloud-go/dataqna
 
 go 1.23.0
 

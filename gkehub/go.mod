@@ -1,4 +1,4 @@
-module cloud.google.com/go/gkehub
+module github.com/rilldata/google-cloud-go/gkehub
 
 go 1.23.0
 

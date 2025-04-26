@@ -1,4 +1,4 @@
-module cloud.google.com/go/shell
+module github.com/rilldata/google-cloud-go/shell
 
 go 1.23.0
 

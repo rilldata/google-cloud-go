@@ -1,4 +1,4 @@
-module cloud.google.com/go/dataflow
+module github.com/rilldata/google-cloud-go/dataflow
 
 go 1.23.0
 

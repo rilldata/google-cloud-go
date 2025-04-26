@@ -1,4 +1,4 @@
-module cloud.google.com/go/channel
+module github.com/rilldata/google-cloud-go/channel
 
 go 1.23.0
 

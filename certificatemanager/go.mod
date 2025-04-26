@@ -1,4 +1,4 @@
-module cloud.google.com/go/certificatemanager
+module github.com/rilldata/google-cloud-go/certificatemanager
 
 go 1.23.0
 

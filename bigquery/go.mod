@@ -1,4 +1,4 @@
-module cloud.google.com/go/bigquery
+module github.com/rilldata/google-cloud-go/bigquery
 
 go 1.23.0
 

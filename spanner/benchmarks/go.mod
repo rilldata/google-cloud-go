@@ -1,4 +1,4 @@
-module cloud.google.com/go/spanner/benchmarks
+module github.com/rilldata/google-cloud-go/spanner/benchmarks
 
 go 1.23.0
 

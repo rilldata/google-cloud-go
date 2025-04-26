@@ -1,4 +1,4 @@
-module cloud.google.com/go/oslogin
+module github.com/rilldata/google-cloud-go/oslogin
 
 go 1.23.0
 

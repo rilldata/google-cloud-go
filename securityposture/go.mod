@@ -1,4 +1,4 @@
-module cloud.google.com/go/securityposture
+module github.com/rilldata/google-cloud-go/securityposture
 
 go 1.23.0
 

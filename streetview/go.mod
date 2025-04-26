@@ -1,4 +1,4 @@
-module cloud.google.com/go/streetview
+module github.com/rilldata/google-cloud-go/streetview
 
 go 1.23.0
 

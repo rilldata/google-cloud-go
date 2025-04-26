@@ -1,4 +1,4 @@
-module cloud.google.com/go/functions
+module github.com/rilldata/google-cloud-go/functions
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/firestore
+module github.com/rilldata/google-cloud-go/firestore
 
 go 1.23.0
 

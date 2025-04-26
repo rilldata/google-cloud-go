@@ -1,4 +1,4 @@
-module cloud.google.com/go/workflows
+module github.com/rilldata/google-cloud-go/workflows
 
 go 1.23.0
 

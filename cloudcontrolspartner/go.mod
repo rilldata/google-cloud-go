@@ -1,4 +1,4 @@
-module cloud.google.com/go/cloudcontrolspartner
+module github.com/rilldata/google-cloud-go/cloudcontrolspartner
 
 go 1.23.0
 

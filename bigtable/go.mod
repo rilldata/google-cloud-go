@@ -1,4 +1,4 @@
-module cloud.google.com/go/bigtable
+module github.com/rilldata/google-cloud-go/bigtable
 
 go 1.23.0
 

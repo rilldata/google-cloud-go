@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/examples/fake
+module github.com/rilldata/google-cloud-go/internal/examples/fake
 
 go 1.23.0
 

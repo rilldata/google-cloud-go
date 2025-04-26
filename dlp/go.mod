@@ -1,4 +1,4 @@
-module cloud.google.com/go/dlp
+module github.com/rilldata/google-cloud-go/dlp
 
 go 1.23.0
 

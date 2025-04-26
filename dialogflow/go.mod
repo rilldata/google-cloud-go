@@ -1,4 +1,4 @@
-module cloud.google.com/go/dialogflow
+module github.com/rilldata/google-cloud-go/dialogflow
 
 go 1.23.0
 

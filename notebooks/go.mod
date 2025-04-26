@@ -1,4 +1,4 @@
-module cloud.google.com/go/notebooks
+module github.com/rilldata/google-cloud-go/notebooks
 
 go 1.23.0
 

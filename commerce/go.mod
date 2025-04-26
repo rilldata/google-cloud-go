@@ -1,4 +1,4 @@
-module cloud.google.com/go/commerce
+module github.com/rilldata/google-cloud-go/commerce
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/parallelstore
+module github.com/rilldata/google-cloud-go/parallelstore
 
 go 1.23.0
 

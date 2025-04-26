@@ -1,4 +1,4 @@
-module cloud.google.com/go/documentai
+module github.com/rilldata/google-cloud-go/documentai
 
 go 1.23.0
 

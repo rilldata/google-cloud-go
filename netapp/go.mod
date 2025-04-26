@@ -1,4 +1,4 @@
-module cloud.google.com/go/netapp
+module github.com/rilldata/google-cloud-go/netapp
 
 go 1.23.0
 

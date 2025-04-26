@@ -1,4 +1,4 @@
-module cloud.google.com/go/ai
+module github.com/rilldata/google-cloud-go/ai
 
 go 1.23.0
 

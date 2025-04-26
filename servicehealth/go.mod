@@ -1,4 +1,4 @@
-module cloud.google.com/go/servicehealth
+module github.com/rilldata/google-cloud-go/servicehealth
 
 go 1.23.0
 

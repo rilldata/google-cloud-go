@@ -1,4 +1,4 @@
-module cloud.google.com/go/translate
+module github.com/rilldata/google-cloud-go/translate
 
 go 1.23.0
 

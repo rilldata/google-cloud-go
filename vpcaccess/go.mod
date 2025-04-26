@@ -1,4 +1,4 @@
-module cloud.google.com/go/vpcaccess
+module github.com/rilldata/google-cloud-go/vpcaccess
 
 go 1.23.0
 

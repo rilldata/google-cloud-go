@@ -1,4 +1,4 @@
-module cloud.google.com/go/scheduler
+module github.com/rilldata/google-cloud-go/scheduler
 
 go 1.23.0
 

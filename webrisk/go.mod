@@ -1,4 +1,4 @@
-module cloud.google.com/go/webrisk
+module github.com/rilldata/google-cloud-go/webrisk
 
 go 1.23.0
 

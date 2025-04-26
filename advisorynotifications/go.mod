@@ -1,4 +1,4 @@
-module cloud.google.com/go/advisorynotifications
+module github.com/rilldata/google-cloud-go/advisorynotifications
 
 go 1.23.0
 

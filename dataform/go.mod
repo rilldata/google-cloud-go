@@ -1,4 +1,4 @@
-module cloud.google.com/go/dataform
+module github.com/rilldata/google-cloud-go/dataform
 
 go 1.23.0
 

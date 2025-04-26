@@ -1,4 +1,4 @@
-module cloud.google.com/go/speech
+module github.com/rilldata/google-cloud-go/speech
 
 go 1.23.0
 

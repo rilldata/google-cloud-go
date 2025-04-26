@@ -1,4 +1,4 @@
-module cloud.google.com/go/accessapproval
+module github.com/rilldata/google-cloud-go/accessapproval
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/managedidentities
+module github.com/rilldata/google-cloud-go/managedidentities
 
 go 1.23.0
 

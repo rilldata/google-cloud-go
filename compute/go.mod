@@ -1,4 +1,4 @@
-module cloud.google.com/go/compute
+module github.com/rilldata/google-cloud-go/compute
 
 go 1.23.0
 

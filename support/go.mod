@@ -1,4 +1,4 @@
-module cloud.google.com/go/support
+module github.com/rilldata/google-cloud-go/support
 
 go 1.23.0
 

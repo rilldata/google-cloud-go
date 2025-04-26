@@ -1,4 +1,4 @@
-module cloud.google.com/go/apigeeconnect
+module github.com/rilldata/google-cloud-go/apigeeconnect
 
 go 1.23.0
 

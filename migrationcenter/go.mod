@@ -1,4 +1,4 @@
-module cloud.google.com/go/migrationcenter
+module github.com/rilldata/google-cloud-go/migrationcenter
 
 go 1.23.0
 

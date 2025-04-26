@@ -1,4 +1,4 @@
-module cloud.google.com/go/parametermanager
+module github.com/rilldata/google-cloud-go/parametermanager
 
 go 1.23.0
 

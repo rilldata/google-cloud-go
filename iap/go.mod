@@ -1,4 +1,4 @@
-module cloud.google.com/go/iap
+module github.com/rilldata/google-cloud-go/iap
 
 go 1.23.0
 

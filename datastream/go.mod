@@ -1,4 +1,4 @@
-module cloud.google.com/go/datastream
+module github.com/rilldata/google-cloud-go/datastream
 
 go 1.23.0
 

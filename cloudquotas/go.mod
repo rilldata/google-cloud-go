@@ -1,4 +1,4 @@
-module cloud.google.com/go/cloudquotas
+module github.com/rilldata/google-cloud-go/cloudquotas
 
 go 1.23.0
 

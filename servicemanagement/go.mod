@@ -1,4 +1,4 @@
-module cloud.google.com/go/servicemanagement
+module github.com/rilldata/google-cloud-go/servicemanagement
 
 go 1.23.0
 

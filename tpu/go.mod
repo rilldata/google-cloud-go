@@ -1,4 +1,4 @@
-module cloud.google.com/go/tpu
+module github.com/rilldata/google-cloud-go/tpu
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/financialservices
+module github.com/rilldata/google-cloud-go/financialservices
 
 go 1.23.0
 

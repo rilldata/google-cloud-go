@@ -1,4 +1,4 @@
-module cloud.google.com/go/vmwareengine
+module github.com/rilldata/google-cloud-go/vmwareengine
 
 go 1.23.0
 

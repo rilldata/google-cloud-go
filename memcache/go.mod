@@ -1,4 +1,4 @@
-module cloud.google.com/go/memcache
+module github.com/rilldata/google-cloud-go/memcache
 
 go 1.23.0
 

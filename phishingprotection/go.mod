@@ -1,4 +1,4 @@
-module cloud.google.com/go/phishingprotection
+module github.com/rilldata/google-cloud-go/phishingprotection
 
 go 1.23.0
 

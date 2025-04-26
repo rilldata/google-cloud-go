@@ -1,4 +1,4 @@
-module cloud.google.com/go/artifactregistry
+module github.com/rilldata/google-cloud-go/artifactregistry
 
 go 1.23.0
 

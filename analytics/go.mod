@@ -1,4 +1,4 @@
-module cloud.google.com/go/analytics
+module github.com/rilldata/google-cloud-go/analytics
 
 go 1.23.0
 

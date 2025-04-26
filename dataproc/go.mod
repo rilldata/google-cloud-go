@@ -1,4 +1,4 @@
-module cloud.google.com/go/dataproc/v2
+module github.com/rilldata/google-cloud-go/dataproc/v2
 
 go 1.23.0
 

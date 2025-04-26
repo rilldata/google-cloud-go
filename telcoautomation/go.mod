@@ -1,4 +1,4 @@
-module cloud.google.com/go/telcoautomation
+module github.com/rilldata/google-cloud-go/telcoautomation
 
 go 1.23.0
 

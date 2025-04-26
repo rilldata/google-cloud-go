@@ -1,4 +1,4 @@
-module cloud.google.com/go/backupdr
+module github.com/rilldata/google-cloud-go/backupdr
 
 go 1.23.0
 

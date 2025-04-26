@@ -1,4 +1,4 @@
-module cloud.google.com/go/servicecontrol
+module github.com/rilldata/google-cloud-go/servicecontrol
 
 go 1.23.0
 

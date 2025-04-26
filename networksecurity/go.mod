@@ -1,4 +1,4 @@
-module cloud.google.com/go/networksecurity
+module github.com/rilldata/google-cloud-go/networksecurity
 
 go 1.23.0
 

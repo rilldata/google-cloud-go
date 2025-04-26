@@ -1,4 +1,4 @@
-module cloud.google.com/go/lustre
+module github.com/rilldata/google-cloud-go/lustre
 
 go 1.23.0
 

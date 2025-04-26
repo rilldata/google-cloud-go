@@ -1,4 +1,4 @@
-module cloud.google.com/go/domains
+module github.com/rilldata/google-cloud-go/domains
 
 go 1.23.0
 

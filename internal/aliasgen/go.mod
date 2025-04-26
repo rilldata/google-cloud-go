@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/aliasgen
+module github.com/rilldata/google-cloud-go/internal/aliasgen
 
 go 1.23.0
 

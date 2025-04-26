@@ -1,4 +1,4 @@
-module cloud.google.com/go/auth
+module github.com/rilldata/google-cloud-go/auth
 
 go 1.23.0
 

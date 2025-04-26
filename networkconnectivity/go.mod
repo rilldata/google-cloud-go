@@ -1,4 +1,4 @@
-module cloud.google.com/go/networkconnectivity
+module github.com/rilldata/google-cloud-go/networkconnectivity
 
 go 1.23.0
 

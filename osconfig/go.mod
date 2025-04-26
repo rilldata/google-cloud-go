@@ -1,4 +1,4 @@
-module cloud.google.com/go/osconfig
+module github.com/rilldata/google-cloud-go/osconfig
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/iot
+module github.com/rilldata/google-cloud-go/iot
 
 go 1.23.0
 

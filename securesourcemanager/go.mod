@@ -1,4 +1,4 @@
-module cloud.google.com/go/securesourcemanager
+module github.com/rilldata/google-cloud-go/securesourcemanager
 
 go 1.23.0
 

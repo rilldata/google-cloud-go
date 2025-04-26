@@ -1,4 +1,4 @@
-module cloud.google.com/go/assuredworkloads
+module github.com/rilldata/google-cloud-go/assuredworkloads
 
 go 1.23.0
 

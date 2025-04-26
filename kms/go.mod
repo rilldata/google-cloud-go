@@ -1,4 +1,4 @@
-module cloud.google.com/go/kms
+module github.com/rilldata/google-cloud-go/kms
 
 go 1.23.0
 

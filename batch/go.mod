@@ -1,4 +1,4 @@
-module cloud.google.com/go/batch
+module github.com/rilldata/google-cloud-go/batch
 
 go 1.23.0
 

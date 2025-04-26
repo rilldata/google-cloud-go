@@ -1,4 +1,4 @@
-module cloud.google.com/go/accesscontextmanager
+module github.com/rilldata/google-cloud-go/accesscontextmanager
 
 go 1.23.0
 

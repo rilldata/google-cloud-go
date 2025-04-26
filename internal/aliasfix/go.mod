@@ -1,4 +1,4 @@
-module cloud.google.com/go/internal/aliasfix
+module github.com/rilldata/google-cloud-go/internal/aliasfix
 
 go 1.23.0
 

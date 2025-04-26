@@ -1,4 +1,4 @@
-module cloud.google.com/go/apikeys
+module github.com/rilldata/google-cloud-go/apikeys
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module cloud.google.com/go/lifesciences
+module github.com/rilldata/google-cloud-go/lifesciences
 
 go 1.23.0
 

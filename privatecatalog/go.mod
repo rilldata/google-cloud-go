@@ -1,4 +1,4 @@
-module cloud.google.com/go/privatecatalog
+module github.com/rilldata/google-cloud-go/privatecatalog
 
 go 1.23.0
 

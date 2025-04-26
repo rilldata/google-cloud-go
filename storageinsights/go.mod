@@ -1,4 +1,4 @@
-module cloud.google.com/go/storageinsights
+module github.com/rilldata/google-cloud-go/storageinsights
 
 go 1.23.0
 

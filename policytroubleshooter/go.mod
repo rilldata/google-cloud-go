@@ -1,4 +1,4 @@
-module cloud.google.com/go/policytroubleshooter
+module github.com/rilldata/google-cloud-go/policytroubleshooter
 
 go 1.23.0
 

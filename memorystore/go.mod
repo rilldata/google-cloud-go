@@ -1,4 +1,4 @@
-module cloud.google.com/go/memorystore
+module github.com/rilldata/google-cloud-go/memorystore
 
 go 1.23.0
 

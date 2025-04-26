@@ -1,4 +1,4 @@
-module cloud.google.com/go/profiler
+module github.com/rilldata/google-cloud-go/profiler
 
 go 1.23.0
 
